@@ -3,8 +3,10 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code her
-        int a=0,i;
+       for(int i=0;i<10;i++)
+       {
+           system.out.print(i);
+       }
 
     }
 }
